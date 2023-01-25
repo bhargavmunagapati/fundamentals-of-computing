@@ -21,3 +21,8 @@ shell leap year:-
 shell area of different shapes:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214486297-58e1bf2a-00e4-4e0c-90ac-e9ff154fa59a.png)
+
+shell arithmetic operation:-
+
+![image](https://user-images.githubusercontent.com/113373588/214488146-a612bb66-82b2-4405-82aa-4e63875a7deb.png)
+
