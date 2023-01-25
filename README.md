@@ -38,3 +38,6 @@ shell n natural numbers:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214515246-281b326f-2ec2-4900-a23d-afbd6963b69b.png)
 
+shell factorial recursive:-
+
+![image](https://user-images.githubusercontent.com/113373588/214520951-3671bfbf-07df-4086-b522-7011bdc874c2.png)
