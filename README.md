@@ -33,3 +33,8 @@ shell student marks:-
 shell palindrome:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214511939-93ebe6ea-401a-4662-bc5b-b8a3a77d77a4.png)
+
+shell n natural numbers:-
+
+![image](https://user-images.githubusercontent.com/113373588/214515246-281b326f-2ec2-4900-a23d-afbd6963b69b.png)
+
