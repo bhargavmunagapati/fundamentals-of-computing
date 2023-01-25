@@ -26,3 +26,6 @@ shell arithmetic operation:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214488146-a612bb66-82b2-4405-82aa-4e63875a7deb.png)
 
+shell student marks:-
+
+![image](https://user-images.githubusercontent.com/113373588/214490401-5246adf0-685e-43d2-a290-521e397c0933.png)
