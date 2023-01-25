@@ -29,3 +29,7 @@ shell arithmetic operation:-
 shell student marks:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214490401-5246adf0-685e-43d2-a290-521e397c0933.png)
+
+shell palindrome:-
+
+![image](https://user-images.githubusercontent.com/113373588/214511939-93ebe6ea-401a-4662-bc5b-b8a3a77d77a4.png)
