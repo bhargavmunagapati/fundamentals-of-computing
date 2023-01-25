@@ -1,11 +1,19 @@
-lap-4
+shell greatest of three numbers:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214482210-c281cf22-9fe2-489b-8ea5-2a76a2130cbb.png)
 
-lap-1
+shell square number:-
 
 ![image](https://user-images.githubusercontent.com/113373588/214482494-89980fe3-b778-4f13-b95d-eea258cf512b.png)
 
-lap-2 
+shell cube number:-
 
 ![Screenshot_20230125_102438](https://user-images.githubusercontent.com/113373588/214483091-8e31f75b-167e-40ef-b5c6-46abd3c9aa0a.png)
+
+shell swap number:-
+
+![Screenshot_20230125_103454](https://user-images.githubusercontent.com/113373588/214484653-01097a7a-d8aa-4970-9b5b-a0fbad8854f5.png)
+
+shell leap year:-
+
+![Screenshot_20230125_104110](https://user-images.githubusercontent.com/113373588/214484900-96f9498d-1371-49c2-90b5-862f25fe43aa.png)
