@@ -1,0 +1,9 @@
+#!/bin/sh
+echo -n "enter y:"
+read y_checker
+if [ 'expr $y_checker % 400' -eq 0      ]
+then
+        echo "$y_checker is a leap year"
+else
+        echo "$y_checker is not a leap year"
+fi
