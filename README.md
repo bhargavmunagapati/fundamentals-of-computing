@@ -17,3 +17,7 @@ shell swap number:-
 shell leap year:-
 
 ![Screenshot_20230125_104110](https://user-images.githubusercontent.com/113373588/214484900-96f9498d-1371-49c2-90b5-862f25fe43aa.png)
+
+shell area of different shapes:-
+
+![image](https://user-images.githubusercontent.com/113373588/214486297-58e1bf2a-00e4-4e0c-90ac-e9ff154fa59a.png)
